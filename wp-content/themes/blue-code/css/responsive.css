@@ -1,0 +1,1207 @@
+@charset "utf-8";
+
+@media screen and (width: 1920px) {
+.footer {
+    background-size: cover;
+}
+.hmImpactArea {
+    background-size: cover;
+}
+.hmAboutDiv {
+    background-size: cover;
+}
+
+
+}
+
+@media screen and (min-width: 1601px) {
+
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+
+
+.hmTestimonials .lftTestimonialsDiv h2 span { font: 600 34px 'Montserrat', sans-serif; } 
+.hmTestimonials { min-height:470px; }  
+.hmTestimonials .lftTestimonialsDiv { padding: 80px 0 40px 112px; } 
+
+.shadow111 {
+    display:none;
+}
+.shadow222 {
+   display:none;
+}
+
+.shadow11 {
+    display:none;
+}
+.shadow22 {
+   display:none;
+}
+
+.shadow11 img { display:none; }
+.shadow22 img { display:none; }
+
+.careers-sec .shadow1 { display:none; }
+.careers-sec .shadow2 { display:none; }
+
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1280px) {
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+#myCarousel .carousel-caption h1 {
+ font: 700 46px 'Montserrat', sans-serif;
+} 
+.hmAboutDiv {
+  height: auto;
+  padding: 40px 0;
+}
+.hmAboutDiv h2 {
+    margin: 0 0 20px;
+} 
+.hmAboutDiv h3 {
+    margin: 0 0 20px;
+}
+.hmTestimonials .lftTestimonialsDiv {
+    padding: 80px 0 100px 40px;
+    width: 45%;
+}
+.hmTestimonials .lftTestimonialsDiv h2 span {
+   font: 600 32px 'Montserrat', sans-serif;
+}  
+.hmTestimonials .lftTestimonialsDiv h2 {
+    margin: 0 0px 20px 5px;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox {
+  padding: 45px 10px 0 35px;
+  width: 518px;
+}
+.owl-theme .owl-nav.disabled + .owl-dots {
+ margin: 0 0 0 -68px;
+}
+.hmTestimonials {
+    min-height: 500px;
+    background: none;
+}
+.hmPartnersDiv ul li {
+  margin: 0 11px;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv {
+ width: 540px;
+}
+.navbar-wrapper .navbar-nav > li {
+    margin: 0 20px;
+} 
+.NEWS h3 {
+    font-size: 17px;
+}
+.date-sec {
+    background-position: 45px 11px;
+}
+.press2 h3 { font-size:16px !important; } 
+
+.approachdiv-part p {
+    font: 500 16px/22px 'Lato', sans-serif;
+}
+.col-sec8 {
+    padding-left: 30px;
+}
+.cake h3 {
+    font: 500 20px/26px 'Lato', sans-serif;
+}
+.newcol-lft {
+    padding-right: 30px !important;
+}
+.cake ul li {
+  margin-bottom: 55px;
+}
+.cake ul li:last-child .col-sec8 {
+    padding-left: 15px !important;
+}
+.sugar-lft {
+    padding-right: 30px;
+}
+.sugar-rht span img { max-width:100%; }
+.sugar {
+    padding: 60px 0;
+}
+.approach {
+  padding: 60px 0;
+}
+.approach h2 {
+    margin-bottom: 40px;
+}
+.berto {
+   margin: 0 28px;
+}
+.bluepress-details-rht p big {
+    font: 600 24px 'Montserrat', sans-serif;
+}
+.bluepress-details-lft {
+    width: 13%;
+    float: left;
+}
+.bluepress-details-rht {
+   width: 87%;
+}
+.job-lft h3 {
+   font-size: 19px;
+}
+
+.job-rht-inner h3 {
+    font: 600 16px 'Montserrat', sans-serif;
+}
+.bluecode .shadow1 {
+    position: relative;
+    left: auto;
+    display: none;
+}
+.bluecode .shadow2 {
+    position: relative;
+    left: auto;
+    display: none;
+}
+.nav-pills li a {
+    padding: 32px 43px;
+    font: 500 20px 'Montserrat', sans-serif;
+}
+.servicesdiv h2 {
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+.health-sec {
+    padding: 30px 15px 20px 15px;
+}
+.chocolate-sec p {
+    font: 500 15px/22px 'lato', sans-serif;
+}
+.health-sec p {
+   font: 500 15px/22px 'Lato', sans-serif !important;
+}
+
+.articals-rht2 p {
+    font: 500 16px/22px 'Lato', sans-serif !important;
+}
+.blue-articles p {
+    font: 500 16px/22px 'lato', sans-serif;
+    color: #777d84;
+}
+.blue-articles {
+    margin-bottom: 30px;
+}
+.postdiv2 {
+    margin-bottom: 35px !important;
+}
+.articals h2 {
+   margin-bottom: 50px;
+}
+.careers-sec .shadow1 { display:none; }
+.careers-sec .shadow2 { display:none; }
+
+.new-col-sec8 h3 {
+    font: 600 21px/26px 'Lato', sans-serif !important;
+}
+.health-part p {
+    font: 500 16px/22px 'Lato', sans-serif !important;
+  
+}
+.health-part {
+   
+    padding: 50px 0 60px 0;
+}
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 768px) and (max-width:991px) {
+
+.date-sec {
+  
+    background-position: 260px 11px;
+}
+
+.berto {
+    width: 30.33%;
+    margin: 0 10px;
+}	
+
+
+	
+	
+	
+
+}
+
+@media screen and (max-width:991px) { 
+.careers-sec .shadow1 { display:none; }
+.careers-sec .shadow2 { display:none; }
+.navbar-toggle {
+    display: block;
+    background: #006ab6 !important;
+    border-color: #006ab6 !important;
+    margin-top: 25px;
+    cursor: pointer;
+    margin-right: 0;
+}
+.hmImpactArea {
+    min-height: auto;
+    padding: 40px 0;
+    background-size: cover;
+}
+
+.hmTestimonials .lftTestimonialsDiv {
+    background: none;
+    padding: 0 30px 20px;
+    width: 100%;
+}
+.hmTestimonials {
+    min-height: auto;
+    padding: 40px 0;
+    width: 100%;
+}
+.hmImpactArea .colorBoxDiv {
+    margin: 7px 0;
+    min-height:auto;
+    padding: 36px 0; 
+    width: 100%;
+}
+.hmImpactArea p {
+    font: 400 17px/24px 'Lato', sans-serif;
+    margin: 0 0 30px;
+}
+.footer {
+    background: url(../images/footer_bg.jpg) no-repeat 0 0;
+    background-size: cover;
+}
+.hmPartnersDiv ul li {
+    margin: 15px 20px;
+    width: auto;
+}
+.hmTestimonials .rTestimonialsDiv {
+    width: 100%;
+    padding: 0 30px;
+}
+.hmTestimonials .lftTestimonialsDiv h2 {
+    margin: 0 0px 20px 5px;
+}
+.star-sec .cap {
+   top: 10px;
+   right: 0;
+} 
+#myCarousel .carousel-caption h1 {
+    font: 700 40px 'Montserrat', sans-serif;
+    margin: 90px 0 30px;
+}
+#myCarousel {
+    height: 500px;
+}
+#myCarousel .item {
+    height: 500px;
+}
+.footerMenuThree h3 {
+   margin: 10px 0 25px;
+} 
+.footerMenuOne img {
+    margin: 40px 0;
+}
+.footerMenuTwo h3 {
+   margin: 55px 0 25px;
+}
+.footerMenuFour h3 {
+    margin: 10px 0 25px;
+} 
+.footerMenuTwo ul li {
+   margin: 0 0 15px;
+}
+.footerMenuFour ul li {
+    margin: 0 0 15px;
+} 
+.footerMenuThree ul li {
+    margin: 0 0 15px;
+} 
+.navbar-wrapper .navbar-header .navbar-brand img {
+	max-width:165px;  
+}
+.rTestimonialsDiv .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -10px;
+    width: auto;
+    float: left;
+    margin-left: 19px;
+}
+.navbar-wrapper .navbar-nav > li {
+    width: 100%;
+    margin: 0;
+    padding-bottom: 5px;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    background: none !important;
+	border:none;
+}
+.navbar-inverse .navbar-nav > .active > a:before, .navbar-inverse .navbar-nav > .active > a:focus:before, .navbar-inverse .navbar-nav > .active > a:hover:before {
+    background:none;
+    bottom: 0;
+    content: "";
+    height: 4px;
+    position: relative;
+	display:none;
+    left: 0;
+    width: 100%;
+}
+
+.navbar-wrapper .navbar-nav {
+    margin: 15px 0 2px;
+    width: 100%;
+    float: left;
+}
+
+.navbar-wrapper .navbar-collapse {
+    width: 100%;
+    float: left;
+	padding: 0;
+	border-color:#006ab6; 
+}
+
+
+.navbar-wrapper .navbar-nav > li .MDropdown {
+    max-width: none;
+    display: table;
+    position: relative;
+    background: #f3f3f3;
+	margin-bottom:15px;
+}
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownMenu li {
+    margin: 0 0 15px;
+}
+.blue-searchicon { 
+ width: auto;
+ float: left;
+ position: absolute;
+ right: 75px;
+ top: 30px; 
+}
+.nav-search {
+    right: -15px;
+    top: 36px;
+}
+.bluecode h2 {
+   margin-bottom: 30px;
+}
+.bluecode-rht {
+    background: #f3f3f3;
+    padding: 15px;
+    margin-top: 30px;
+}
+.bluecode-lft {
+    padding-right: 0;
+}
+.col-sec3 {
+	width:100%; 
+    text-align: center;
+    margin-bottom: 20px;
+}
+.col-sec8 {
+    width: 100%;
+    padding: 0 !important;
+    padding-left:0;
+    text-align: center;
+}
+.sugar-lft {
+    width: 100%;
+    padding-right: 0;
+    text-align: center;
+}
+.sugar-rht {
+    width: 100%;
+    float: left;
+	margin-bottom: 25px;
+    text-align: center;
+}
+.approach {
+   padding: 40px 0;
+}
+.approach h2 {
+    margin-bottom: 30px;
+}
+.cake {
+   padding: 40px 0;
+}
+.sugar {
+    padding: 40px 0;
+}
+.sugar h3 {
+    margin-bottom: 10px;
+}
+.cake h3 {
+    margin-bottom: 10px;
+}
+.cake ul li {
+    margin-bottom: 25px;
+    background: #1f6b9d;
+    padding:14px;
+}
+
+.teamdiv { padding:40px 0 !important; }
+.berto .caption {
+   padding: 15px 5px;
+}
+
+.berto {
+    width: 39.33%;
+    margin: 0 5%;
+    min-height: 339px;
+}
+
+
+.teamdiv h2 {
+    margin-bottom: 40px;
+}
+.bluepress-details-rht {
+    width: 100%;
+    float: left;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bluepress-details-lft {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bluepress-details h2 { margin-bottom:10px !important;   margin-top: 0px;}
+
+.bluepress-details {
+    margin-top: 10px;
+}
+.NEWS p {
+ font: 500 16px/22px 'Lato', sans-serif;
+}
+
+.full-box-sec {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+.careers-sec {
+   	
+    padding: 40px 0;
+}
+.careers-sec h2 {
+    margin-bottom: 30px;
+}
+.partners { padding: 40px 0 40px 0 !important; }
+
+.partners-sec h2 span { font: 600 28px 'Montserrat', sans-serif; } 
+.partners-sec p {
+    padding: 0 0px;
+}
+.nav-pills li a {
+    padding: 20px 14px;
+    font: 500 17px 'Montserrat', sans-serif;
+}
+.nav-pills > li.active::after {
+  
+    top: 46px;
+}
+
+.health h2 { margin-top: 0 !important;  }
+.servicesdiv h2 {
+    margin-top: 40px;
+}
+.servicesdiv h2 span {
+   font: 600 32px 'Montserrat', sans-serif;
+   padding: 5px 0 0 15px;
+}
+
+.chocolate-sec .col-md-4 {
+    width: 100%;
+    float: left;
+	
+}
+.chocolate-sec .col-md-8 {
+    width: 100%;
+    float: left;
+}
+.chocolate-sec {
+   margin-bottom: 15px;
+    text-align: center;
+}
+.chocolate-lft { width:100%; float:left; margin-bottom:20px; }
+.chocolate {
+    padding-top: 20px;
+	padding-bottom: 15px;
+}
+.chocolate h4 {
+    margin-bottom: 30px;
+}
+.health-sec {
+    margin: 7px 0;
+}
+
+.articals h2 {
+    margin-bottom: 40px;
+}
+.articals-rht2 h3 {
+    margin-top: 15px;
+}
+.postdiv2 {
+    margin-bottom: 25px !important;
+}
+.blue-articles {
+    margin-bottom: 20px;
+}
+.articals2 {
+   
+    padding: 40px 0 20px 0;
+}
+.articals2 h2 {
+    margin-bottom: 30px;
+}
+.health-part {
+    text-align: center;
+}
+
+.new-col-sec8 h3 {
+    font: 600 25px/26px 'Lato', sans-serif !important;
+}
+
+.health-part {
+    padding: 50px 0 50px 0;
+}
+
+
+.health-part-lft span img {
+    width: auto;
+}
+.health-part-lft {
+    margin-bottom: 15px;
+}
+
+.articals-rht h3 {
+    margin-top: 12px;
+}
+.postdiv {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+.pagination {
+    margin: 0;
+}
+
+
+}
+
+@media screen and (max-width:767px) {
+
+.hmPartnersDiv ul li {
+    margin-bottom: 15px;
+    text-align: center;
+    width: 44.33%;
+    float: left;
+    margin: 10px 10.9px;
+    height: 77px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.hmPartnersDiv ul li img { max-width:100%; }
+.footerMenuTwo h3 {
+    margin: 20px 0 25px;
+}
+
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownMenu {
+    display: inherit !important;
+    width: 100% !important;
+    float: left !important;
+    padding: 5px 20px 10px 20px;
+}
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownContent {
+    display: inherit;
+    float: left;
+    width: 100%;
+}
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownContent {
+    float: left;
+    width: 100%;
+    margin-top: 0;
+    padding: 0 20px;
+}
+.navbar-wrapper .navbar-header .navbar-brand img {
+    max-width: 195px;
+}
+.date-sec {
+  
+    background-position: 260px 11px;
+}
+
+.Press_Releases .shadow1 {
+    position: relative;
+    left: 0;
+    display: none;
+}
+.Press_Releases .shadow2 {
+    position: relative;
+    left: 0;
+    display: none;
+}
+.Press_Releases h2 {
+    margin-bottom: 20px;
+}
+.Press_Releases {
+    padding: 30px 0;
+}
+.bluecode .shadow1 {
+    position: relative;
+    left: 0;
+	display:none;
+}
+.bluecode .shadow2 {
+    position: relative;
+    left: 0;
+	display:none;
+}
+.bluecode h3 {
+   margin-bottom: 20px;
+}
+.bluecode .btn {
+ margin-top:0; 
+}
+.bluecode {
+    padding: 35px 0 40px 0;
+}
+.footer {
+  text-align: center;
+}
+.footerMenuOne .qucContact {
+    padding: 0 287px;
+    text-align: left;
+}
+.careers-sec h2 span {
+    font: 600 22px 'Montserrat', sans-serif;
+} 
+
+.careers-sec h2 span {
+    padding: 6px 0 0px 15px;
+	background: url(../images/blue_curly_brackets_open_bg.png) no-repeat 0 0px;
+   
+}
+.job-lft {
+  
+    padding: 20px;
+    margin-bottom: 15px;
+}
+.job-rht {
+    margin-top: 15px;
+}
+.job-rht-inner {
+    padding: 15px 15px 0 15px;
+}
+.careers-sec .shadow2 {
+    position: relative;
+    right: auto;
+    display: none;
+}
+.careers-sec .shadow1 {
+    position: relative;
+    left: auto;
+	display: none;
+}
+.service-banner .text-caption {
+   font: 600 30px 'Montserrat', sans-serif;
+}
+
+.nav-pills li:last-child {
+    border-right: none; 
+}
+.nav-pills li {
+    display: inherit;
+    float: none;
+    border-left: none;
+    padding: 0;
+}
+.nav-pills > li.active::after {
+    top:auto; 
+	display:none;
+}
+.nav-pills li a {
+    padding: 10px 14px;
+}
+.nav-pills {
+    padding: 15px 0;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #86d9ff !important;
+}
+.articals {
+   padding: 40px 0;
+}
+
+
+
+}
+
+@media screen and (max-width:736px) {
+.footerMenuOne .qucContact {
+    padding: 0 273px;
+}
+.footerMenuOne .qucContact {
+    padding: 0 240px;
+}
+
+}
+
+@media screen and (max-width: 667px) {
+.berto {
+  
+    min-height: 309px;
+}
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 639px) {
+
+}
+
+@media screen and (width: 568px) {
+.hmTestimonials .rTestimonialsDiv .clientDiv {
+  
+    width: 510px;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox {
+  
+    width: auto;
+}
+.berto {
+    min-height: 275px;
+}
+.footerMenuOne .qucContact {
+    padding: 0 190px;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+.mapdiv iframe { height:215px; }  
+
+.bluecode-rht ul li {
+   width: 100%;
+    float: left;
+    margin: 0;
+}
+
+.footerMenuOne img {
+    margin: 25px 0;
+}
+.footerMenuOne .qucContact li {
+    margin: 0 0 12px;
+}
+.footerMenuTwo ul li {
+    margin: 0 0 10px;
+}
+.footerMenuTwo h3 {
+    margin: 10px 0 15px;
+}
+.footerMenuThree h3 {
+    margin: 10px 0 15px;
+}
+.footerMenuFour h3 {
+    margin: 10px 0 15px;
+}
+
+.topfooter { text-align:center; }
+.footerMenuOne .qucContact { text-align:left; padding:0 110px; } 
+
+.partners-sec h2 span {
+    font: 600 28px 'Montserrat', sans-serif;
+    padding: 7px 0 0 15px;
+}
+.partners-box {
+    margin: 10px 0;
+} 
+
+.servicesdiv h2 span {
+    font: 600 18px 'Montserrat', sans-serif;
+}
+
+.servicesdiv h2 span {
+ padding: 8px 0 0 15px;
+  
+}
+
+ 
+
+}
+
+@media screen and (max-width: 414px) {
+#myCarousel .carousel-caption h1 {
+    font: 700 25px 'Montserrat', sans-serif;
+    margin: 40px 0 20px;
+}
+#myCarousel .carousel-caption p {
+    margin: 0 15px 40px;
+}
+#myCarousel .item {
+    height: 415px;
+}
+#myCarousel {
+    height: 415px;
+}
+#myCarousel .carousel-indicators {
+    bottom: 30px;
+}
+.hmAboutDiv {
+   height: auto;
+   padding: 30px 0;
+}
+
+.hmAboutDiv h2 {
+    margin: 0 0 10px 9px;
+}
+.hmImpactArea h2 {
+    margin: 0 0 20px 15px;
+}
+.hmImpactArea h2 span span {
+    margin: -6px 0 0 4px;
+}
+.hmAboutDiv h3 {
+    margin: 0 0 20px;
+}
+.hmTestimonials .lftTestimonialsDiv h2 span {
+   font: 600 26px 'Montserrat', sans-serif;
+}
+.hmTestimonials {
+    background: none;
+	padding: 30px 0; 
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv {
+    float: none;
+    width: auto;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox { width:auto; }    
+.hmTestimonials .rTestimonialsDiv .clientDiv .item { background:#fff; }
+
+.hmTestimonials .lftTestimonialsDiv {
+  padding: 0 15px 20px;
+
+}
+.hmTestimonials .lftTestimonialsDiv h3 {
+    margin: 0 0 15px;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox {
+   padding: 45px 0 0 20px;
+}
+.hmTestimonials .rTestimonialsDiv {
+    padding: 0 45px 0 15px;
+}
+
+.hmPartnersDiv ul li {
+    width: 46.33%;
+    margin: 7px 6.9px;
+}
+.hmPartnersDiv {
+    margin: 0 0 30px;
+} 
+.hmAboutDiv p {
+    margin: 0 0 25px;
+}
+.nav-search {
+    right: -15px;
+    top: 36px;
+    width: 230px;
+}
+.date-sec {
+    background-position: 90px 11px;
+}
+.NEWS {
+    margin-bottom: 15px;
+} 
+.berto {
+    width: 100%;
+    margin: 0 0;
+    min-height: auto;
+    margin-bottom: 15px;
+}
+.bluepress-details-rht p big {
+    font: 600 24px 'Montserrat', sans-serif;
+}
+.press2 h3 {
+    font-size: 19px !important;
+    line-height: normal !important;
+}
+.bluecode h2 span {
+    background: url(../images/blue_curly_brackets_open_bg.png) no-repeat 0 0px;
+    font: 600 32px 'Montserrat', sans-serif;
+    padding: 2px 0 0 15px;
+}
+.health h2 {
+    font: 500 23px/29px 'Lato', sans-serif !important;
+}
+.chocolate h4 {
+  font: 500 22px/24px 'lato', sans-serif;
+  margin-bottom: 20px;
+} 
+.health-sec {
+    padding: 20px 15px 15px 15px;
+}
+.articals-rht2 h3 {
+    font-size: 20px !important;
+}
+.blue-articles h3 {
+ 
+    font-size: 19px;
+    line-height: 24px;
+}
+.postdiv2 {
+    margin-bottom: 20px !important;
+}
+.health-part {
+    padding: 35px 0 50px 0;
+}
+.approach {
+    padding: 40px 0 20px 0;
+}
+.health-part h2 {
+    font: 600 22px/26px 'Lato', sans-serif !important;
+}
+.health-part-lft span img {
+    max-width: 100%;
+}
+.footerMenuOne .qucContact {
+    padding: 0px 110px;
+}
+.health-sec p {
+    padding: 0;
+}
+ 
+}
+
+@media screen and (max-width: 375px) {
+
+#myCarousel .carousel-caption h1 {
+    font: 700 18px 'Montserrat', sans-serif;
+    margin: 30px 0 10px;
+    line-height: 26px;
+}
+
+#myCarousel .carousel-caption p {
+    font: 700 16px/22px 'Lato', sans-serif;
+	margin-bottom: 25px;
+}
+
+#myCarousel .item {
+    height: 330px;
+}
+#myCarousel {
+    height: 330px;
+}
+#myCarousel .carousel-caption .btn {
+    font: 700 16px/44px 'Muli', sans-serif;
+    padding: 0 28px;
+}
+.hmAboutDiv h2 span {
+    font: 600 32px 'Montserrat', sans-serif;
+    line-height: 48px;
+}
+.hmImpactArea h2 span {
+     font: 600 30px 'Montserrat', sans-serif;
+    line-height: 48px;
+}
+.hmTestimonials .lftTestimonialsDiv h2 span {
+    font: 600 22px 'Montserrat', sans-serif;
+}
+.hmTestimonials .lftTestimonialsDiv {
+    padding: 0 15px 10px;
+}
+
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox p {
+    font: 400 15px/22px 'Lato', sans-serif;
+    margin: 35px 0 22px 0;
+}
+.hmTestimonials .rTestimonialsDiv .clientDiv .clientSaysBox {
+   padding: 45px 0 0 20px;
+}
+.hmTestimonials .rTestimonialsDiv {
+    padding: 0 45px 0 15px;
+}
+.hmPartnersDiv ul li {
+    width: 46.33%;
+    margin: 7px 6.3px;
+}
+.date-sec {
+    background-position: 70px 11px;
+}
+.footerMenuOne .qucContact {
+    padding: 0 93px;
+}
+.bluecode {
+  padding: 30px 0 30px 0 !important;
+}
+.careers-sec h2 span {
+    font: 600 20px 'Montserrat', sans-serif;
+}
+.bluepress-details-rht p big {
+    font: 600 21px 'Montserrat', sans-serif;
+}
+.partners-sec h2 span {
+    font: 600 27px 'Montserrat', sans-serif;
+    padding: 8px 0 0 15px;
+}
+.partners-sec h2 {
+    margin-bottom: 15px;
+}
+.servicesdiv h2 span {
+    font: 600 16px 'Montserrat', sans-serif;
+}
+.servicesdiv h2 {
+    margin-top: 30px;
+	font: 500 18px/22px 'Lato', sans-serif !important;
+}
+.health-sec h3 {
+    font: 500 17px/22px 'Lato', sans-serif !important;
+	margin: 10px 0;
+ 
+}
+
+}
+
+@media screen and (max-width: 360px) {
+.hmPartnersDiv ul li {
+    width: 46.39%;
+    margin: 7px 5.9px;
+}
+.date-sec {
+    background-position: 64px 11px;
+}
+.bluecode h2 span {
+    font: 600 34px 'Montserrat', sans-serif;
+}
+.footerMenuOne .qucContact {
+    padding: 0px 84px;
+}
+.careers-sec h2 span {
+    font: 600 19px 'Montserrat', sans-serif;
+}
+.partners-sec h2 span {
+    font: 600 25px 'Montserrat', sans-serif;
+}
+.partners {
+    padding: 30px 0 30px 0 !important;
+}
+.servicesdiv h2 span {
+    font: 600 15px 'Montserrat', sans-serif;
+}
+.new-col-sec8 h3 {
+    font: 600 20px/26px 'Lato', sans-serif !important;
+}	
+.Posteddiv span {
+    margin-right: 15px;
+}
+.Posteddiv span em {
+    margin-right: 6px;
+}
+.Posteddiv span big {
+    font: 500 15px 'lato', sans-serif;
+}
+.Posteddiv {
+  
+    font: 500 15px 'lato', sans-serif;
+}
+
+}
+
+@media screen and (max-width: 320px) { 
+.hmPartnersDiv ul li {
+    width: 44.33%;
+    margin: 7px 7.9px;
+    height: 59px;
+}
+.hmPartnersDiv ul li img {
+    max-width: 100%;
+    height: 45px;
+}
+.hmImpactArea h2 span {
+    font: 600 27px 'Montserrat', sans-serif;
+    line-height: 48px;
+}
+.hmAboutDiv h2 span {
+    font: 600 30px 'Montserrat', sans-serif;
+}
+#myCarousel .carousel-caption h1 {
+    font: 700 16px 'Montserrat', sans-serif;
+    line-height: 24px;
+}
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownMenu li a {
+  font: 700 15px 'Lato', sans-serif;
+}
+.navbar-wrapper .navbar-nav > li .MDropdown .dropdownMenu li {
+    margin: 0 0 10px;
+}
+.hmAboutDiv h2 span {
+    line-height: 48px;
+}	
+.blue-searchicon {
+    right: 60px;
+    top: 31px;
+}
+.NEWS h3 {
+    font-size: 17px;
+}
+.press2 h3 {
+    font-size: 16px !important;
+}
+.date-sec {
+    background-position: 45px 11px;
+}
+.footerMenuOne .qucContact {
+    padding: 0px 64px;
+}
+.careers-sec h2 span {
+    font: 600 16px 'Montserrat', sans-serif;
+}
+.careers-sec h2 {
+    margin-bottom: 25px;
+}
+.careers-sec {
+    padding: 30px 0;
+}
+.full-box-sec h2 {
+    font: 500 20px 'lato', sans-serif;
+}
+.servicesdiv h2 span {
+    font: 600 18px 'Montserrat', sans-serif;
+    background: none;
+}
+.servicesdiv h2 span span {
+    background: none;
+}
+.servicesdiv h2 {
+    margin-top: 15px;
+	margin-bottom: 0px;
+}
+.health h2 { margin-bottom:15px; }
+.articals {
+    padding: 30px 0 10px 0;
+}
+
+
+
+
+
+}
